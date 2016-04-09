@@ -1,0 +1,14 @@
+Welcome to the scavenger hunt world!
+
+It's a large world out there with mountains, forests, oceans, and castles.
+
+You currently find yourself near a stream, with a bridge over the stream leading to a forest.
+Further down the stream there are grasslands with mountains faintly visible in the distance.
+Navigate the world with cd.
+If there are any interesting files, make sure to use cat, less, or your preferred text editor to view them.
+
+Your first task is to find a clue.
+If you know anything about clues, they're generally hidden underneath rocks.
+There might be some rocks by the stream...
+
+Useful commands: grep

@@ -1,0 +1,38 @@
+Welcome to the OCCS Unix Scavenger Hunt!
+
+This is a challenge designed to get you acquainted with the powerful tools Unix offers.
+
+To find information on any Unix command, type
+
+man <command>
+
+So if I wanted information on the unix command "ls", I would type
+
+man ls
+
+Useful commands for this scavenger hunt:
+ls - list the contents of a directory
+echo - print a string
+cd - change the current working directory
+cat - print the contents of a file
+less - view the contents of a file
+text editors nano, vim, and emacs - editors designed specifically for efficiently writing code
+find - find a file in the directory structure
+grep - a tool for searching for text and patterns in files and directories
+sed - a tool for searching and replacing patterns in files
+chmod - change permissions on a file
+sort - a tool for sorting text
+wc - count the words/lines in a file
+du - get the size of a file
+for loops - iterate over lists or lines of text
+pipe | - redirect the output of one program to the input of the next program
+redirect > < >> << - redirect the standard input or output of a program to or from a file
+
+
+
+
+To get started with the challenge, you should use the command
+ls -a
+to show hidden files and directories
+
+Good Luck!
