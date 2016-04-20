@@ -10,7 +10,10 @@ int main() {
 	// Initial lines
 	manyLines();
 	// Actual line
-	printf( "1 Go find the golden nut!\n" );
+	printf( "01 Well done! It's time to search for the golden nut\n" );
+	printf( "02 It's hidden somewhere along these branches\n");
+	printf( "03 You might need grep and a look at the man page\n");
+	printf( "04 So you can easily search through all these branches\n");
 	// Final lines
 	manyLines();
 }

@@ -2,10 +2,13 @@ Here we find two squirrels, they don't make much sense
 You'll have to use some UNIX tools to find out their two cents
 
 The first squirrel speaks some, but they're not the english type
-to find out what he's saying you'll have to use a ____
+to find out what he's saying you'll have to use the decoder with a ____
 
 The second squirrel speaks too but it's always out of order
 you'll need two UNIX tools to figure him out, doing it by hand would be torture
+
+Also with the second squirrel, he speaks a lot, but lacks the mind
+To mention that out of what he says, you only will need four lines
 
 Be careful with the decoder, you'll need to use it right
 If you get stuck, remember that Ctrl+C will help you fight
