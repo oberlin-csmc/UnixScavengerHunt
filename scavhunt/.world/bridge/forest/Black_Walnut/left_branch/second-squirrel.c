@@ -28,8 +28,8 @@ void printLine() {
 	int r;
 	// Number to print
 	r = rand() % 100;
-	while( r == 1 ) {
-		r = rand();
+	while( r == 1 || r == 0) {
+		r = rand() % 100;
 	}
 	// Print number
 	printf( "%d ", r );
