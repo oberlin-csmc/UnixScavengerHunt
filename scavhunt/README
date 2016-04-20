@@ -2,6 +2,10 @@ Welcome to the OCCS Unix Scavenger Hunt!
 
 This is a challenge designed to get you acquainted with the powerful tools Unix offers.
 
+First and most useful feature on your terminal: tab autocomplete:
+If you type part of any file or program in your directory, it will autocomplete
+as much as it can.
+
 To find information on any Unix command, type
 
 man <command>
@@ -26,6 +30,8 @@ wc - count the words/lines in a file
 du - get the size of a file
 for loops - iterate over lists or lines of text
 pipe | - redirect the output of one program to the input of the next program
+backticks ``: when you want the result of running a program to be entered as an argument:
+example of backticks: less `which cookie` captures the output of "which cookie" and uses "less" to view it
 redirect > < >> << - redirect the standard input or output of a program to or from a file
 
 
