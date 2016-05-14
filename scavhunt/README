@@ -22,12 +22,14 @@ cat - print the contents of a file
 less - view the contents of a file
 text editors nano, vim, and emacs - editors designed specifically for efficiently writing code
 find - find a file in the directory structure
-grep - a tool for searching for text and patterns in files and directories
-sed - a tool for searching and replacing patterns in files
+grep - a tool for searching for text and patterns in files, directories, and input
+sed - a tool for searching and replacing patterns in files and input
 chmod - change permissions on a file
 sort - a tool for sorting text
-wc - count the words/lines in a file
+wc - count the words/lines in a file or input
 du - get the size of a file
+head - get first n lines of a file or input
+tail - get last n lines of a file or input
 for loops - iterate over lists or lines of text
 pipe | - redirect the output of one program to the input of the next program
 backticks ``: when you want the result of running a program to be entered as an argument:
